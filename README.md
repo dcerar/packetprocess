@@ -1,5 +1,5 @@
 # packetprocess
-This program reads packets from the network and generate statistics for TCP, UDP and ICMP protocols according to the following table:
+This program reads packets from the network and generate statistics for TCP, UDP and ICMP protocols according to the following table (open this file in raw mode to see it):
 
 Protocol                        Fields (CSV file)	                             Log file
 TCP	          year,month,day,hour,minute,second,source IP, source port	      tcplog.csv
